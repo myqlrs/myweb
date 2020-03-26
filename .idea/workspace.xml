@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="210cacc2-e10a-4b6a-931e-6a4fd87bb249" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index1.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,6 +29,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -43,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585226456587</updated>
-      <workItem from="1585226465202" duration="3244000" />
+      <workItem from="1585226465202" duration="4134000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1585226657855</created>
@@ -66,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585228480043</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1585230562584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585230562584</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,18 +92,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="372" y="25" key="CommitChangelistDialog2" timestamp="1585230550107">
+    <state x="372" y="25" key="CommitChangelistDialog2" timestamp="1585230561584">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="372" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585230550107" />
+    <state x="372" y="25" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585230561584" />
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1585227658039">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1585227658039" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585228540883">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585230685850">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585228540883" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585230685850" />
     <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585228801008">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
